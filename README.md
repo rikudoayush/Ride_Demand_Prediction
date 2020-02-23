@@ -1,2 +1,2 @@
 # Ride_Demand_Prediction
-<img src = "hex.jpg">
+<img src = "hex.png">
