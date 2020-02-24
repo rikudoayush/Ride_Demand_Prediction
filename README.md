@@ -5,7 +5,7 @@
 <img src = "hex(resolution 6).png">
 
 
-##Trackroute.ipynb
+## Trackroute.ipynb
 
 <img src = "heatmap.png">
 <img src = "heatmaps.png">
